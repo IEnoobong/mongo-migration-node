@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "async": "2.6.1",
-    "mongodb": "3.1.10"
+    "mongodb": "3.1.13"
   }
 }
